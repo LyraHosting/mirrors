@@ -1,11 +1,11 @@
 ---
-name: repo.almalinux.org
+name: mirror.lyrahosting.com
 address:
-  http: http://repo.almalinux.org/almalinux/
-  https: https://repo.almalinux.org/almalinux/
-  rsync: rsync://rsync.repo.almalinux.org/almalinux
-update_frequency: 1h
-sponsor: AlmaLinux OS Foundation
-sponsor_url: https://www.almalinux.org
-email: hello@almalinux.org
+  http: http://mirror.lyrahosting.com/almalinux/
+  https: https://mirror.lyrahosting.com/almalinux/
+  rsync: rsync://mirror.lyrahosting.com/almalinux
+update_frequency: 3h
+sponsor: Dennis Kuper
+sponsor_url: https://mirror.lyrahosting.com
+email: mirror@mlyrahosting.com
 ...

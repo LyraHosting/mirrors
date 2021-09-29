@@ -4,7 +4,7 @@ address:
   http: http://mirror.lyrahosting.com/almalinux/
   https: https://mirror.lyrahosting.com/almalinux/
   rsync: rsync://mirror.lyrahosting.com/almalinux
-update_frequency: 1h
+update_frequency: 3h
 sponsor: Dennis Kuper
 sponsor_url: https://lyrahosting.com
 email: mirror@lyrahosting.com
